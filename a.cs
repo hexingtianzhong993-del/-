@@ -22,9 +22,9 @@ using Splatoon.SplatoonScripting.Priority;
 using Splatoon.Utility;
 using static Splatoon.Splatoon;
 
-namespace SplatoonScriptsOfficial.Duties.Dawntrail.Dancing_Mad;
+namespace a;
 
-internal class P2_Misisng_KT_Alt : SplatoonScript
+internal class a : SplatoonScript
 {
     #region Metadata
 
